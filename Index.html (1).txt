@@ -157,8 +157,8 @@
         </div>
 
         <p style="text-align:center;">
-            Phone: Your Phone Number<br>
-            Email: Your Email Address<br>
+            Phone: (587)433-7919<br>
+            Email: Rajdhaliwal22@gmail.com<br>
             Address: 33 Maidengrass Rd, Brampton, Ontario
         </p>
 

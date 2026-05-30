@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raj Mason & Renovations</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="container navbar">
+        <div class="logo">
+            RAJ <span>MASON & RENOVATIONS</span>
+        </div>
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="letterhead.html">Letterhead</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<section class="hero">
+    <div class="container">
+        <h1>Building Strength. Crafting Trust.</h1>
+
+        <p>
+            Professional bricklaying, stone masonry,
+            precast installation, block work,
+            restoration and renovation services.
+        </p>
+
+        <a href="contact.html" class="btn">
+            Get a Free Quote
+        </a>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Welcome to Raj Mason & Renovations</h2>
+        </div>
+
+        <p style="text-align:center; max-width:900px; margin:auto;">
+            Raj Mason & Renovations provides high-quality masonry
+            and renovation services throughout Ontario. We specialize
+            in brickwork, stone installation, concrete block construction,
+            precast products, restoration projects and residential renovations.
+        </p>
+
+    </div>
+</section>
+
+<section>
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Why Choose Us</h2>
+        </div>
+
+        <div class="cards">
+
+            <div class="card">
+                <h3>Quality Workmanship</h3>
+                <p>
+                    Skilled craftsmanship with attention to detail
+                    on every project.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Reliable Service</h3>
+                <p>
+                    Projects completed professionally,
+                    safely and on schedule.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Experienced Team</h3>
+                <p>
+                    Extensive experience in masonry,
+                    restoration and renovations.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Customer Satisfaction</h3>
+                <p>
+                    Dedicated to providing excellent service
+                    and lasting results.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+<section>
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Featured Services</h2>
+        </div>
+
+        <div class="cards">
+
+            <div class="card">
+                <h3>Bricklaying</h3>
+                <p>
+                    Residential and commercial brick installation
+                    and repair.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Stone Masonry</h3>
+                <p>
+                    Natural and manufactured stone projects.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Precast Installation</h3>
+                <p>
+                    Professional precast concrete installation.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Renovations</h3>
+                <p>
+                    Basement, exterior and structural renovations.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+<section>
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Contact Us Today</h2>
+        </div>
+
+        <p style="text-align:center;">
+            Phone: Your Phone Number<br>
+            Email: Your Email Address<br>
+            Address: 33 Maidengrass Rd, Brampton, Ontario
+        </p>
+
+        <br>
+
+        <div style="text-align:center;">
+            <a href="contact.html" class="btn">
+                Contact Us
+            </a>
+        </div>
+
+    </div>
+</section>
+
+<footer>
+    <p>
+        © 2026 Raj Mason & Renovations.
+        All Rights Reserved.
+    </p>
+</footer>
+
+</body>
+</html>
